@@ -1,9 +1,15 @@
 # CS771
+
 https://www.cse.iitk.ac.in/users/purushot/courses/ml/2023-24-w/discussion.html
+
 https://www.youtube.com/playlist?list=UULF02HzhBF8Wg2zXhvWebz1tA
+
 https://web.cse.iitk.ac.in/users/piyush/courses/ml-autumn23/index.html
+
 https://www.cse.iitk.ac.in/users/purushot/courses/ml/2023-24-w/discussion.html
+
 https://web.cse.iitk.ac.in/users/piyush/courses/ml-autumn23/index.html
+
 https://drive.google.com/drive/folders/1LgptUvapOTyxoF-P_cNW5prznwEUSGtT
 
 
